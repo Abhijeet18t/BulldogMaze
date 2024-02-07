@@ -4,8 +4,8 @@ Bulldogs Maze
 
 EXECUTION INSTRUCTIONS:-
 Use the following script to execute:- 
-• npm run bulldogs
-\n if encountered any errors execute the following script to install correct dependency packages
+• npm run bulldogs.
+ If encountered any errors execute the following script to install correct dependency packages
 • npm i 
 
 DEMO LINK:-
