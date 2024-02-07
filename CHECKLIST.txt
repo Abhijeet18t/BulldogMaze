@@ -1,0 +1,11 @@
+PROJECT ELEMENTS COMPLETED
+
+-Maze traversal object (bulldog vehicle)
+-Object mechanics (user input manipulation of vehicle)
+-Imported maze structure (glb file)
+-collision detection  (cannon.js -> bounding box algorithm)
+-textured surfaces (Georgia logos & football elements)
+-Responsive camera control (4 different camera angles attached to the vehicle)
+-lighting elements (headlights & global illumination)
+-Wave motion (Georgia flag)
+-GUI controls (Change environment parameters)
